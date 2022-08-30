@@ -1,0 +1,4 @@
+[submodule "arvydasgblog/public"]
+	path = arvydasgblog/public
+	url = https://github.com/arvydasg/arvydasg.github.io.git
+	branch = master
