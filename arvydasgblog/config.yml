@@ -1,0 +1,58 @@
+baseURL: 'https://arvydasg.github.io/'
+languageCode: en-us
+title: Arvydasg
+theme: hugo-PaperMod
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:  
+  main:
+    - idenfifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - idenfifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - idenfifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - name: Search
+      url: search/
+      weight: 40
+
+params:
+
+  # ShowBreadCrumbs: true
+  ShowReadingTime: true
+  # ShowShareButtons: true
+  ShowPostnavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  
+  cover:
+    linkFullImages: true
+    
+
+  homeInfoParams:
+    Title: "Arvydasg"
+    Content: >
+      Welcome to **Arvydas** blog/portfolio.
+      
+      - Here you can find various projects of mine that I have
+      created during my self-thought programmer/web-dev years.
+          
+      - Please take a look 🌟 !
+      
+  socialIcons:
+        - name: github
+          url: "https://github.com/arvydasg"
+        - name: instagram
+          url: "https://www.instagram.com/this46383/"
+        # - name: Rss
+        #   url: "index.xml"      
+  
