@@ -9,7 +9,7 @@ tags: ["codeacademy"]
 categories: ["projects"]
 ---
 
-Website version - https://arvydasg.github.io/codeacademy/
+Website version - https://arvydas.dev/codeacademy/
 
 Github repo link -
 [arvydasg/codeacademy](https://github.com/arvydasg/codeacademy)
