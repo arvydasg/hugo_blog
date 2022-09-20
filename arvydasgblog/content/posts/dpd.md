@@ -5,7 +5,7 @@ cover:
     image: dpd.png
     alt: 'dpd courier app'
     caption: 'dpd courier app'
-tags: ["django", "python"]
+tags: ["django", "python","webdev", "software"]
 categories: ["projects"]
 ---
 

@@ -5,7 +5,7 @@ cover:
     image: obelsdumas.png
     alt: 'Obelsdumas landing page'
     caption: 'Obelsdumas landing page'
-tags: ["wordpress"]
+tags: ["Wordpress", "webdev", "ecommerce"]
 categories: ["projects"]
 ---
 

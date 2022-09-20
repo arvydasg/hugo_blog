@@ -5,7 +5,7 @@ cover:
     image: facebookdjango.gif
     alt: 'facebook automation with Django'
     caption: 'facebook automation with Django'
-tags: ["django", "automation", "openpyxl", "pillow", "pyAutoGUI"]
+tags: ["django", "automation", "openpyxl", "pillow", "pyAutoGUI", "webdev", "software"]
 categories: [""]
 ---
 

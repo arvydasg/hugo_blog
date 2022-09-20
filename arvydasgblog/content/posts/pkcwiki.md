@@ -5,7 +5,7 @@ cover:
     image: pkcwiki.png
     alt: 'PKC wiki example page'
     caption: 'PKC wiki example page'
-tags: ["emacs"]
+tags: ["emacs", "pkc", "webdev", "software"]
 categories: ["projects"]
 ---
 

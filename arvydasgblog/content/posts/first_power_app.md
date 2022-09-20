@@ -5,7 +5,7 @@ cover:
     image: powerapp.png
     alt: 'pkc powerapp different screens'
     caption: 'power app demo'
-tags: ["microsoft", "pkc"]
+tags: ["microsoft", "pkc", "software"]
 categories: ["projects"]
 ---
 

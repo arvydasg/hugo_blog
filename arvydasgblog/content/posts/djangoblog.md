@@ -5,7 +5,7 @@ cover:
     image: djangoblog.gif
     alt: 'Django blog landing page'
     caption: 'Django blog landing page'
-tags: ["django", "python"]
+tags: ["django", "python", "webdev"]
 categories: ["projects"]
 ---
 

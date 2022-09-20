@@ -5,7 +5,7 @@ cover:
     image: smutifruti.png
     alt: 'Smutifruti landing page'
     caption: 'Smutifruti landing page'
-tags: ["Wordpress"]
+tags: ["Wordpress", "webdev", "ecommerce"]
 categories: ["projects"]
 ---
 

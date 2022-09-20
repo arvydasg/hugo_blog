@@ -5,7 +5,7 @@ cover:
     image: julijaconsulting.png
     alt: 'julija consulting landing page'
     caption: 'julija consulting landing page'
-tags: ["wordpress"]
+tags: ["wordpress", "webdev"]
 categories: ["projects"]
 ---
 

@@ -5,7 +5,7 @@ cover:
     image: phats.png
     alt: 'phats software in action'
     caption: 'phats software in action'
-tags: ["pkc", "python", "tkinter", "numpy", "pandas", "openpyxl"]
+tags: ["pkc", "python", "tkinter", "numpy", "pandas", "openpyxl", software]
 categories: ["projects"]
 ---
 

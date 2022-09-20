@@ -5,7 +5,7 @@ cover:
     image: ivbackups.png
     alt: 'automated IV backups'
     caption: 'automated IV backups'
-tags: ["python", "automation", "selenium"]
+tags: ["python", "automation", "selenium", "software"]
 categories: ["projects"]
 ---
 

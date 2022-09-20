@@ -5,7 +5,7 @@ cover:
     image: magicmirror.png
     alt: 'First MagicMirror Setup'
     caption: 'magic mirror screen'
-tags: ["javascript", "node.js", "raspberrypi"]
+tags: ["javascript", "node.js", "raspberrypi", "software"]
 categories: ["projects"]
 ---
 
