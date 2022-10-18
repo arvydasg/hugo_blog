@@ -40,7 +40,7 @@ Here is a codeacademy task itself - [Baigiamoji uzduotis](Baigiamoji_uzduotis.pd
 
 Here is a link to my [Skelbiu.lt
 clone](https://arvydas.dev/codeacademy/javascript/skelbiult/index.html)(give
-it a few seconds to load, api is sometimes slow :) ).
+it a few seconds to load, this api service can sometimes be slow :) ).
 
 Working with API's, fetchign and updating data is one of the most
 intersting things that I have done with JavaScript so far. I am happy
