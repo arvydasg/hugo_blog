@@ -4,9 +4,9 @@ date: 2022-02-05T17:03:29+03:00
 cover:
     image: facebookdjango.gif
     alt: 'facebook automation with Django'
-    caption: 'facebook automation with Django'
-tags: ["django", "automation", "openpyxl", "pillow", "pyAutoGUI", "webdev", "software"]
-categories: [""]
+    caption: 'facebook automation with Python and Django'
+tags: ["django", "automation", "openpyxl", "pillow", "python", "pyAutoGUI", "webdev", "software"]
+categories: ["projects"]
 ---
 
 A short [demo video](https://www.veed.io/view/c32a9c68-e5c3-48be-939e-b3121bc8d8f9) of how it works. 

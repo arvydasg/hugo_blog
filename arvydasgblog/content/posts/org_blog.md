@@ -6,7 +6,7 @@ cover:
     alt: 'emacs blog'
     caption: 'blog generated with emacs'
 tags: ["emacs", "webdev"]
-categories: [""]
+categories: ["projects"]
 ---
 
 # Intro
